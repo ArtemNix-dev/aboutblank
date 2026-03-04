@@ -3,7 +3,7 @@
 <body>
 <script>
 let win = window.open("about:blank");
-win.document.write('<iframe src="https://example.com" style="width:100%;height:100%;border:none;"></iframe>');
+win.document.write('<iframe src="https://sites.google.com/iusd.org/potato-class/home" style="width:100%;height:100%;border:none;"></iframe>');
 </script>
 </body>
 </html>
